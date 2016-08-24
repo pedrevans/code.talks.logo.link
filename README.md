@@ -8,3 +8,7 @@ Just use the shortcode
     [codetalks_logo]
 
 in your post or page at the place where you want the logo to appear.
+
+If you need to change the layout, edit `static/css/layout.css`.
+
+Comments and criticism welcome!
